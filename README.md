@@ -1,7 +1,7 @@
 # ezmojis
 Emoji Selector.
 
-rofi-emoji is great but bloated and not easy to configure: just work on rofi and the database manage is not friendly.
+[rofi-emoji](https://github.com/Mange/rofi-emoji) is great but bloated and not easy to configure: just work on rofi and the database manage is not friendly.
 Ezmojis can find and copy (clipboard or primary selection) emojis and devicons in rofi, dmenu and fzf.
 The database is just a text file.
 
@@ -10,7 +10,7 @@ The database is just a text file.
 - Obviusly a font with emoji support and devicons or glyphs.
 I use : [Mononoki Nerd Fonts](https://www.nerdfonts.com/), and Noto Color Emoji
 
-- You can choose the menu selector: dmenu, rofi or fzf.
+- You can choose the menu selector: [dmenu](https://tools.suckless.org/dmenu/), [rofi](https://github.com/davatorium/rofi) or [fzf](https://github.com/junegunn/fzf)
 
 
 ## Instalation
