@@ -1,0 +1,250 @@
+ nf-dev-android
+ nf-dev-bootstrap
+ nf-dev-chart
+ nd-dev-code
+ nf-dev-css3
+ nf-dev-database-db
+ nf-dev-linux debian
+ nf-dev-docker 
+ nf-dev-firebase
+ nf-dev-firefox-browser
+ nf-dev-git 
+ nf-dev-git-branch
+ nf-dev-git-commit
+ nf-dev-git-compare
+ nf-dev-git-merge
+ nf-dev-git-pull-request
+ nf-dev-github
+ nf-dev-github-badge
+ nf-dev-github-full
+ nf-dev-gnu
+ nf-dev-language-go
+ nf-dev-google drive
+ nf-dev-haskell
+ nf-dev-heroku
+ nf-dev-html5
+ nf-dev-internet-explorer
+ nf-dev-lang-java
+ nf-dev-lang-javascript
+ nf-dev-lang-javascript-badge
+ nf-dev-jekyll
+ nf-dev-jenkins
+ nf-dev-linux
+ nf-dev-mysql
+ nf-dev-mysql-server
+ nf-dev-.net
+ nf-dev-nginx 
+ nf-dev-nodejs
+ nf-dev-nodejs-small
+ nf-dev-npm 
+ nf-dev-onedrive
+ nf-dev-opensource e771
+ nf-dev-postgresql 
+ nf-dev-prolog e7a1
+ nf-dev-python e73c
+ nf-dev-rasberry_pi e722
+ nf-dev-react e7ba
+ nf-dev-redhat-linux e7bb
+ nf-dev-responsive e797
+ nf-dev-ruby e739
+ nf-dev-rust e7a8
+ nf-dev-sass e74b
+ nf-dev-scala e737
+ nf-dev-sqllite e7c4
+ nf-dev-stackoverflow e710
+ nf-dev-sublime
+ nf-dev-terminal e795
+ nf-dev-terminal_badge e7a2
+ nf-dev-ubuntu e73a
+ nf-dev-vim e7c5
+ nf-dev-visualstudio e70c
+ nf-dev-windows e70f
+ nf-dev-wordpress e70b
+ nf-oct-device_mobile f42c
+ nf-custom-c e61e
+ nf-custom-cpp e61d
+ nf-custom-electron e62e
+ nf-custom-elixir e62d
+ nf-custom-folder e5ff
+ nf-custom-folder_config e5fc
+ nf-custom-folder_git e5fb
+ nf-custom-folder_github
+ nf-custom-folder_npm e5fa
+ nf-custom-folder_open e5fe
+ nf-custom-vim e62b
+ nf-custom-windows e62a
+ nf-fa-address_book f2b9
+ nf-fa-android f17b
+ nf-fa-apple f179
+ nf-fa-area_chart f1fe
+  nf-fa-balance_scale f24e
+  nf-fa-bank f19c
+  nf-fa-bar_chart f080
+ nf-fa-barcode f02a
+  nf-fa-battery f240
+  nf-fa-battery_empty f244
+  nf-fa-battery_half f242
+  nf-fa-bed f236
+ nf-fa-bell_o f0a2
+  nf-fa-bicycle f206
+ nf-fa-bitcoin f15a
+ nf-fa-blind f29d
+ nf-fa-bluetooth f293
+ nf-fa-bluetooth_b f294
+ nf-fa-bold f032
+ nf-fa-book f02d
+ nf-fa-bug f188
+ nf-fa-calendar f073
+ nf-fa-calendar_check_o f274
+ nf-fa-calendar_o f133
+ nf-fa-calendar_times_o f273
+  nf-fa-camera f030
+  nf-fa-car f1b9 
+  nf-fa-cc f20a
+  nf-fa-cc_mastercard f1f1
+  nf-fa-cc_paypal f1f4
+  nf-fa-cc_visa f1f0
+ nf-fa-check f00c
+  nf-fa-clipboard f0ea
+ nf-fa-clock_o
+ nf-fa-close f00d
+  nf-fa-cloud f0c2
+  nf-fa-code f121
+ nf-fa-code_fork f126
+ nf-fa-cog f013
+  nf-fa-cogs f085
+  nf-fa-columns f0db
+  nf-fa-comment f075
+  nf-fa-commenting f0e5
+  nf-fa-comments f086
+ nf-fa-copyright f1f9
+  nf-fa-creative_commons f25e
+  nf-fa-credit_card_alt f283
+ nf-fa-crop f125
+  nf-fa-cut f0c4
+  nf-fa-desktop f108
+ nf-fa-download f019
+ nf-fa-dropbox f16b
+ nf-fa-edit f044
+ nf-fa-euro f153
+ nf-fa-eye f06e
+ nf-fa-eye_slash f070
+ nf-fa-facebook f09a
+ nf-fa-facebook_square f082
+ nf-fa-facebook_official f230
+ nf-fa-feed f09e
+ nf-fa-file_image_o f1c5
+  nf-fa-film f008
+  nf-fa-futbol_o f1e3
+  nf-fa-gamepad f11b
+ nf-fa-gavel f0e3
+ nf-fa-gear f013
+  nf-fa-gears f085
+ nf-fa-google f1a0
+  nf-fa-graduation_cap f19d
+  nf-fa-group f0c0
+ nf-fa-hashtag f292
+ nf-fa-headphones f025
+ nf-fa-hdd_o f0a0
+ nf-fa-heart_o f08a
+ nf-fa-home f015
+ nf-fa-inbox f01c
+ nf-fa-instagram f16d
+ nf-mdi-album f524
+ nf-mdi-alert_outline f529
+ nf-mdi-amazon f52c
+ nf-mdi-battery_alert f582
+ nf-mdi-battery_charging f583
+ nf-mdi-battery_charging_20 f585
+ nf-mdi-battery_outline f58d
+ nf-mdi-battery_70 f57f
+ nf-mdi-battery_50 f57d
+  nf-mdi-cast f617
+ﲹ nf-mdi-currency_eth fcb9
+ﲺ nf-mdi-currency_jpy fcba
+ nf-mdi-currency_usd f6b2
+ nf-mdi-cursor_default f6b3
+ nf-mdi-cursor_move f6b5
+ nf-mdi-cursor_pointer f6b6
+ nf-mdi-delete f6bf
+﫧nf-mdi-delete_forever fae7
+ﴗ nf-mdi-delete_restore fd17
+ﭮ nf-mdi-discord fb6e
+ nf-mdi-fingerprint f736
+ nf-mdi-format_header_1 f76a
+ nf-mdi-format_header_2 f76b
+ nf-mdi-format_header_3 f76c
+ﱔ nf-mdi-format_list_checks fc54
+ nf-mdi-format_list_numbers f77a
+ nf-mdi-git f7a1
+ nf-mdi-gmail f7aa
+ nf-mdi-gnome f7ab
+ nf-mdi-google_chrome f7ae
+ nf-mdi-google_controller f7b3
+ nf-mdi-google_controller_off f7b4
+﫴 nf-mdi-google_maps faf4
+ﯛ nf-mdi-google_photos fbdb
+ nf-mdi-google_play f7bb
+ nf-mdi-google_translate f7be
+ nf-mdi-hangouts f7c8
+ nf-mdi-headphones f7ca
+ nf-mdi-hexagon f7d7
+ﯟ nf-mdi-hexagon_multiple fbdf
+ﳍ nf-mdi-high_definition fccd
+ nf-mdi-image f7e8
+﫸 nf-mdi-incognito faf8
+ nf-mdi-cloud-sync f803
+ﳑ nf-mdi-language_go fcd1
+ nf-mdi-language_php f81e
+ nf-mdi-language_python f81f
+ﳒ nf-mdi-language_r fcd2
+ nf-mdi-linkedin f83a
+ nf-mdi-linkedin_box f83b
+ nf-mdi-linux f83c
+ nf-mdi-logout f842
+ﬧ nf-mdi-matrix fb27
+ nf-mdi-mouse f87c
+ﱘ nf-mdi-music fc58
+ nf-mdi-music_circle f885
+ﳟ nf-mdi-nintendo_switch fcdf
+ nf-mdi-office f8c5
+ nf-mdi-package f8d2
+ nf-mdi-package_down f8d3
+ nf-mdi-package_up f8d4
+ nf-mdi-palette-color f8d7
+ nf-mdi-paw-pet f8e8
+ nf-mdi-pi f8fe
+邏nf-mdi-playstation f913
+卵nf-mdi-pokeball f91c
+ﴮ nf-mdi-poker_chip fd2e
+襤nf-mdi-power f924
+ﮣ nf-mdi-power_plug fba3
+朗nf-mdi-printer f929
+櫓 nf-mdi-qrcode f931
+露 nf-mdi-radio f938
+菉nf-mdi-radioactive f93b
+索nf-mdi-rss f96a
+參nf-mdi-rss_box f96b
+廬nf-mdi-security f982
+黎nf-mdi-send f989
+ﳫ nf-mdi-send_secure fceb
+漣nf-mdi-settings f992
+瑩nf-mdi-skype f9ae
+醴nf-mdi-soccer-futbol f9b7
+蓼nf-mdi-speaker f9c2
+暈 nf-mdi-spellcheck f9c5
+戮 nf-mdi-steam f9d2
+理 nf-mdi-sword f9e4
+ﲅ  nf-mdi-sword_cross fc85
+﨨 nf-mdi-tooth fa28
+既 nf-mdi-twitch fa42
+暑 nf-mdi-twitter fa43
+漢 nf-mdi-ubuntu fa47
+禍nf-mdi-usb fa52
+辶nf-mdi-video fa66
+﬎ nf-mdi-violin fb0e
+直 nf-mdi-wifi faa8
+磌nf-mdi-wikipedia faab
+視nf-mdi-xbox fab8
+ nf-mdi-battery_alert f582
+輸 nf-mdi-youtube_play fac2
