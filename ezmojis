@@ -1,0 +1,42 @@
+#!/bin/sh
+
+#=====INFO=======
+# Dependecies: xclip, emoji font.
+# Optional:    dmenu, rofi, fzf.
+# Description: Find and copy emojis.
+# Author:      Andy Rufasto <andy@andyrufasto.cf>
+#=====END INFO ===
+
+[ "$1" = "devicons" ] && OPT="devicons" || OPT="emojis"
+
+case "$2" in
+	-r | -rofi)
+		MENU_OPT="rofi -dmenu -p '${OPT}'"
+		;;
+	-f | -fzf)
+		MENU_OPT="fzf --prompt='${OPT}'"
+		;;
+	-d | -dmenu)
+		MENU_OPT="dmen -l 5 -p '${OPT}'"
+		;;
+	"" | -h)
+		echo "usage: ezmojis [ emoji | devicons ] [Menu] [Copy to]
+
+Menu:
+-h | help  Display this message
+-d | dmenu Disptay devicons on dmenu
+-f | fzf   Disptay devicons on fzf in terminal
+-r | dmenu Disptay devicons on rofi
+
+Copy to:
+-c  clipboard (default)
+-p  primary selection"
+		;;
+	*)
+		echo -e "\n Option does not exist"; exit 1
+esac
+
+[ "$3" = "-p" ] && COPY="xclip" || COPY="xclip -sel c"
+
+
+cat ${HOME}"/.local/share/ezmojis/"${OPT}".txt" | ${MENU_OPT} | awk '{print $1}' | ${COPY}
