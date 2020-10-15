@@ -17,7 +17,7 @@ case "$2" in
 		MENU_OPT="fzf --prompt='${OPT}'"
 		;;
 	-d | -dmenu)
-		MENU_OPT="dmen -l 5 -p '${OPT}'"
+		MENU_OPT="dmenu -l 5 -p '${OPT}'"
 		;;
 	"" | -h)
 		echo "usage: ezmojis [ emoji | devicons ] [Menu] [Copy to]
