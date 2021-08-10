@@ -39,4 +39,4 @@ esac
 [ "$3" = "-p" ] && COPY="xclip" || COPY="xclip -sel c"
 
 
-cat ${HOME}"/.local/share/ezmojis/"${OPT}".txt" | ${MENU_OPT} | awk '{print $1}' | ${COPY}
+cat ${HOME}"/.local/share/ezmojis/"${OPT}".txt" | ${MENU_OPT} | awk '{print $1}' | tr -d "\\n" | ${COPY}
